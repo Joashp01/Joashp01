@@ -61,16 +61,6 @@ Here are some of my favorite works:
 ### Design & Productivity
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-
-
----
-
-## 📊 GitHub Stats
-![Joash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joashp01&show_icons=true&theme=radical)
-
-
-![trophies](https://github-profile-trophy.vercel.app/?username=Joashp01&theme=onedark)
 
 
 ---
